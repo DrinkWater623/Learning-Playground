@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Bedrock-OSS/regolith-schemas/main/config/v1.1.json",
+	"author": "Your name",
+	"name": "Project name",
+	"packs": {
+		"behaviorPack": "./packs/BP",
+		"resourcePack": "./packs/RP"
+	},
+	"regolith": {
+		"dataPath": "./packs/data",
+		"filterDefinitions": {
+			"ts2js": {
+				"runWith": "nodejs",
+				"script": "./filters/ts2js.js"
+			}
+		},
+		"profiles": {
+			"default": {
+				"export": {
+					"readOnly": false,
+					"target": "local"
+				},
+				"filters": [{
+					"filter": "ts2js"
+				}]
+			}
+		}
+	}
+}
