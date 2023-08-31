@@ -1,0 +1,35 @@
+--====================================================  
+Order when on same line  Top Right Bottom Left  
+padding-top
+padding-right
+padding-bottom
+padding-left
+
+border-left: 10px solid black;
+or
+border-left-width: 10px;
+border-left-style: solid;
+border-left-color: black;
+--====================================================    
+Colors:
+Primary
+Red: rgb(255, 0, 0) = #FF0000
+Green: rgb(0, 255, 0) = #00FF00
+Blue: rgb(0, 0, 255) = #0000FF
+
+cyan = rgb(0, 255, 255) = #00FFFF
+
+7F=127 - half of FF
+
+HSL function (hue, saturation, lightness)  0-360
+The CSS hsl function accepts 3 values: a number from 0 to 360 for hue, 
+a percentage from 0 to 100 for saturation, and a percentage from 0 to 100 for lightness.
+
+If you imagine a color wheel, the hue red is at 0 degrees, green is at 120 degrees, 
+and blue is at 240 degrees.
+
+Saturation is the intensity of a color from 0%, or gray, to 100% for pure color. 
+You must add the percent sign % to the saturation and lightness values.
+
+Lightness is how bright a color appears, from 0%, or complete black, 
+to 100%, complete white, with 50% being neutral.
