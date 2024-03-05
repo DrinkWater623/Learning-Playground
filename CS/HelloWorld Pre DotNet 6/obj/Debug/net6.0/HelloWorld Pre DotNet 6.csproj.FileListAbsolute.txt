@@ -1,0 +1,14 @@
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\HelloWorld Pre DotNet 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\HelloWorld Pre DotNet 6.AssemblyInfoInputs.cache
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\HelloWorld Pre DotNet 6.AssemblyInfo.cs
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\HelloWorld Pre DotNet 6.csproj.CoreCompileInputs.cache
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\bin\Debug\net6.0\HelloWorld Pre DotNet 6.exe
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\bin\Debug\net6.0\HelloWorld Pre DotNet 6.deps.json
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\bin\Debug\net6.0\HelloWorld Pre DotNet 6.runtimeconfig.json
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\bin\Debug\net6.0\HelloWorld Pre DotNet 6.dll
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\bin\Debug\net6.0\HelloWorld Pre DotNet 6.pdb
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\HelloWorld Pre DotNet 6.dll
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\refint\HelloWorld Pre DotNet 6.dll
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\HelloWorld Pre DotNet 6.pdb
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\HelloWorld Pre DotNet 6.genruntimeconfig.cache
+C:\Users\lafem\Projects\Learning-Playground\CS\HelloWorld Pre DotNet 6\obj\Debug\net6.0\ref\HelloWorld Pre DotNet 6.dll

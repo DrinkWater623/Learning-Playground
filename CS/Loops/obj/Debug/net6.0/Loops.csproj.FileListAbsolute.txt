@@ -1,0 +1,14 @@
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\bin\Debug\net6.0\Loops.exe
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\bin\Debug\net6.0\Loops.dll
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\bin\Debug\net6.0\Loops.pdb
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\Loops.dll
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\Loops.pdb
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\Users\lafem\Projects\Learning-Playground\CS\Loops\obj\Debug\net6.0\ref\Loops.dll

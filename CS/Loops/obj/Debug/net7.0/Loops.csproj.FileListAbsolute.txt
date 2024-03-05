@@ -1,0 +1,14 @@
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\Loops.AssemblyInfoInputs.cache
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\Loops.AssemblyInfo.cs
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\Loops.csproj.CoreCompileInputs.cache
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\bin\Debug\net7.0\Loops.exe
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\bin\Debug\net7.0\Loops.deps.json
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\bin\Debug\net7.0\Loops.runtimeconfig.json
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\bin\Debug\net7.0\Loops.dll
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\bin\Debug\net7.0\Loops.pdb
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\Loops.dll
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\refint\Loops.dll
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\Loops.pdb
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\Loops.genruntimeconfig.cache
+C:\Projects\Learn\CS\Tutorials\Microsoft\CsharpProjects\Loops\obj\Debug\net7.0\ref\Loops.dll

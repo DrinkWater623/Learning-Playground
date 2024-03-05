@@ -63,24 +63,24 @@ greet(null);
 type Customer = { birthday: Date };
 
 function getCustomer(id: number): Customer | null | undefined {
-    return id === 0 ? null :  { birthday: new Date() };
+    return id === 0 ? null : { birthday: new Date() };
 }
 let customer = getCustomer(0);
 
-if (customer !==null && customer !==undefined) 
+if (customer !== null && customer !== undefined)
     console.log(customer.birthday);
 
-    //Optional property access operator
-    console.log(customer?.birthday);
-    console.log(customer?.birthday?.getFullYear);
+//Optional property access operator
+console.log(customer?.birthday);
+console.log(customer?.birthday?.getFullYear);
 
-    //Optional element access operator
-    // customers?.[0] 
+//Optional element access operator
+// customers?.[0] 
 
-    //Optional Call
-    let log1: any = (message: string) => console.log(message);
-    let log2: any = null;
-    log2?.('a');
+//Optional Call
+let log1: any = (message: string) => console.log(message);
+let log2: any = null;
+log2?.('a');
 
 
 
